@@ -1,6 +1,5 @@
-# docs_build_test
+# docs-tutorials
 
-(x) removing files
-(x) cloning repo
-(x) building
-(x) done
+[Tutorials site for MongoDB products and
+services](https://docs.mongodb.com/guides/).
+

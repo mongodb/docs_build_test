@@ -1,0 +1,31 @@
+.. _guides:
+
+======
+Guides
+======
+
+.. default-domain:: mongodb
+
+   
+.. guide-index::
+
+   server/introduction
+   server/install
+   server/auth
+   MongoDB in the Cloud
+     cloud/atlas
+     cloud/connectionstring 
+   Migrate to MongoDB Atlas
+     cloud/migrate-from-aws-to-atlas
+     cloud/migrate-from-compose
+     cloud/migrate-from-mlab
+   server/import
+   server/drivers
+   CRUD Guides: Create, Read, Update, and Delete Data
+     server/insert
+     server/read
+     server/read_queries
+     server/read_operators
+     server/update
+     server/delete
+   stitch/react_googleauth

@@ -1,0 +1,45 @@
+title: Login to Atlas
+ref: connect
+level: 4
+stepnum: 1
+content: |
+
+  `Login to Atlas <https://cloud.mongodb.com>`_.
+
+---
+title: Click the Connect button
+ref: connect_button
+level: 4
+stepnum: 2
+content: |
+
+  Click the connect button in the middle of the cluster management panel.
+
+  .. figure:: /images/connect_panel.png
+     :figwidth: 200px
+
+---
+title: Whitelist your IP address and select your connection method
+ref: bind_db
+level: 4
+stepnum: 3
+content: |
+
+  In step 1 in the modal window, check to make sure your IP address is
+  in the whitelist for Atlas connections. If it is not, add it.
+
+  Next, see step 2 in the modal window. Select which client you wish to use to
+  connect to MongoDB.
+
+  .. figure:: /images/connectionstringwhitelist.png
+     :figwidth: 700px
+
+
+---
+title: Copy the connection string
+ref: access-mongos
+level: 4
+stepnum: 4
+content: |
+  
+  .. include:: /includes/driver_copy_paste.rst
