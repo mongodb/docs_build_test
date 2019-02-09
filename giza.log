@@ -2118,3 +2118,5 @@ WARNING:giza.content.sphinx:WARNING: logo file '.static/logo-mongodb.png' does n
 ERROR:giza.content.assets:failed to pull /Users/skersch/Documents/myfork/docs_build_test/build/docs-tools repository
 WARNING:giza.content.sphinx:WARNING: html_static_path entry u'/Users/skersch/Documents/myfork/docs_build_test/source/.static' does not exist
 WARNING:giza.content.sphinx:WARNING: logo file '.static/logo-mongodb.png' does not exist
+ERROR:giza.main:operation interrupted by user.
+ERROR:giza.pool:task received interrupt.

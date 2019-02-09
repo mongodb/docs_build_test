@@ -1,0 +1,116 @@
+.. only:: html or dirhtml or singlehtml
+
+   .. raw:: html
+   
+      <div class="sequence-block"><div class="bullet-block"><div class="sequence-step">1</div></div>
+
+   Connect to Your MongoDB Instance
+   ````````````````````````````````
+
+   
+   .. include:: /includes/drivers_connect.rst
+   
+
+   .. raw:: html
+   
+      </div>
+
+.. only:: not(html or dirhtml or singlehtml)
+
+   Step 1: Connect to Your MongoDB Instance
+   ````````````````````````````````````````
+
+   
+   .. include:: /includes/drivers_connect.rst
+   
+
+.. only:: html or dirhtml or singlehtml
+
+   .. raw:: html
+   
+      <div class="sequence-block"><div class="bullet-block"><div class="sequence-step">2</div></div>
+
+   Switch to the ``test`` Database
+   ```````````````````````````````
+
+   
+   .. include:: /includes/bind_db.rst
+   
+
+   .. raw:: html
+   
+      </div>
+
+.. only:: not(html or dirhtml or singlehtml)
+
+   Step 2: Switch to the ``test`` Database
+   ```````````````````````````````````````
+
+   
+   .. include:: /includes/bind_db.rst
+   
+
+.. only:: html or dirhtml or singlehtml
+
+   .. raw:: html
+   
+      <div class="sequence-block"><div class="bullet-block"><div class="sequence-step">3</div></div>
+
+   Insert a Single Document
+   ````````````````````````
+
+   
+   Now you are ready to create your first document in MongoDB.
+   
+   MongoDB stores documents as BSON, a binary form of JavaScript Object
+   Notation ``JSON``. The documents are stored in collections.
+   
+   .. include:: /includes/insert_one.rst
+   .. include:: /includes/driver-example-insert-1.rst
+   
+   Unlike SQL tables, MongoDB collections have dynamic schemas. That is,
+   a single collection can store documents that differ in shapes (i.e.
+   contain different fields and value types). And unlike SQL, no DDL
+   operation is required to add or remove fields or modify field types.
+   You just update the documents directly.
+   
+   .. note::
+      While MongoDB does support dynamic collection definitions, you can
+      also enforce a uniform schema for the documents in your collection.
+      See :ref:`JSON Schema validation <schema-validation-json>`.
+   
+   .. include:: /includes/drivers_close_connection.rst
+   
+
+   .. raw:: html
+   
+      </div>
+
+.. only:: not(html or dirhtml or singlehtml)
+
+   Step 3: Insert a Single Document
+   ````````````````````````````````
+
+   
+   Now you are ready to create your first document in MongoDB.
+   
+   MongoDB stores documents as BSON, a binary form of JavaScript Object
+   Notation ``JSON``. The documents are stored in collections.
+   
+   .. include:: /includes/insert_one.rst
+   .. include:: /includes/driver-example-insert-1.rst
+   
+   Unlike SQL tables, MongoDB collections have dynamic schemas. That is,
+   a single collection can store documents that differ in shapes (i.e.
+   contain different fields and value types). And unlike SQL, no DDL
+   operation is required to add or remove fields or modify field types.
+   You just update the documents directly.
+   
+   .. note::
+      While MongoDB does support dynamic collection definitions, you can
+      also enforce a uniform schema for the documents in your collection.
+      See :ref:`JSON Schema validation <schema-validation-json>`.
+   
+   .. include:: /includes/drivers_close_connection.rst
+   
+
