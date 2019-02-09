@@ -1,1 +1,0 @@
-.. include:: /includes/driver-example-query-7.rst
