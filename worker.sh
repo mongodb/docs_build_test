@@ -1,2 +1,2 @@
 #!/bin/sh
-make -C docs_build_test html
+make html
