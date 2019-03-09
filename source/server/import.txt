@@ -1,5 +1,5 @@
 .. guide::
-   title: Import Data into MongoDB Because Cloud
+   title: Import Data into MongoDB Because It's Awesome!
    author: MongoDB Documentation Team
    type: Getting Started
    level: beginner
