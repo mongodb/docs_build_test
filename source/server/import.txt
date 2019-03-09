@@ -1,5 +1,5 @@
 .. guide::
-   title: Import Data into MongoDB Because It's Cool!
+   title: Import Data into MongoDB Because
    author: MongoDB Documentation Team
    type: Getting Started
    level: beginner
