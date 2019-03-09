@@ -12,7 +12,7 @@ Guides
    server/introduction
    server/install
    server/auth
-   MongoDB in the Cloud hih hi
+   MongoDB in the Cloud
      cloud/atlas
      cloud/connectionstring 
    Migrate to MongoDB Atlas
