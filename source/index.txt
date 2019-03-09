@@ -15,7 +15,7 @@ Guides
    MongoDB in the Cloud hih hi
      cloud/atlas
      cloud/connectionstring 
-   Migrate to MongoDB Atlas If you wish
+   Migrate to MongoDB Atlas
      cloud/migrate-from-aws-to-atlas
      cloud/migrate-from-compose
      cloud/migrate-from-mlab
