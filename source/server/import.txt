@@ -1,5 +1,5 @@
 .. guide::
-   title: Import Data into MongoDB YIYIYIYIYIYIYI
+   title: Import Data into MongoDB
    author: MongoDB Documentation Team
    type: Getting Started
    level: beginner
