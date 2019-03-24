@@ -1,6 +1,6 @@
 .. guide::
    
-   title: Delete from MongoDB
+   title: Delete Data Now from MongoDB
    type: Getting Started
    level: beginner
    author: MongoDB Documentation Team
