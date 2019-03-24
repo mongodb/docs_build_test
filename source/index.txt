@@ -12,7 +12,7 @@ Guides
    server/introduction
    server/install
    server/auth
-   MongoDB in the Cloud ccccc
+   MongoDB in the Cloud bbbbbbb
      cloud/atlas
      cloud/connectionstring 
    Migrate to MongoDB cscscscscscscs
