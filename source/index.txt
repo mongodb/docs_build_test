@@ -15,7 +15,7 @@ Guides
    MongoDB in the Cloud
      cloud/atlas
      cloud/connectionstring 
-   Migrate to MongoDB OR NOT
+   Migrate to MongoDB It's super cool
      cloud/migrate-from-aws-to-atlas
      cloud/migrate-from-compose
      cloud/migrate-from-mlab
