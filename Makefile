@@ -21,7 +21,7 @@ help: ## Show this help message
 
 
 html: examples install-resources ## Builds this branch's HTML under build/<branch>/html
-	giza make html
+	giza -s make html
 
 publish: examples install-resources ## Builds this branch's publishable HTML and other artifacts under build/public
 	if [ ${GIT_BRANCH} = master ]; then rm -rf build/master build/public; fi
