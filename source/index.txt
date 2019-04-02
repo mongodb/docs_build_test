@@ -15,7 +15,7 @@ Guides
    MongoDB in the Cloudas
      cloud/atlas
      cloud/connectionstring 
-   Migrate to MongoDB test
+   Migrate to MongoDB test test
      cloud/migrate-from-aws-to-atlas
      cloud/migrate-from-compose
      cloud/migrate-from-mlab
