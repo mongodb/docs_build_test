@@ -12,7 +12,7 @@ Guides
    server/introduction
    server/install
    server/auth
-   MongoDB in the Cloud hola
+   MongoDB in the Cloud hola holad
      cloud/atlas
      cloud/connectionstring 
    Migrate to MongoDB test test
