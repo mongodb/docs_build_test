@@ -12,7 +12,7 @@ Guides
    server/introduction
    server/install
    server/auth
-   MongoDB in the Cloudas
+   MongoDB in the Cloud KICK ASS BUILDER WOO HOO
      cloud/atlas
      cloud/connectionstring 
    Migrate to MongoDB
