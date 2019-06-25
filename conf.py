@@ -15,7 +15,7 @@ sys.path.append(project_root)
 
 from giza.config.runtime import RuntimeStateConfig
 from giza.config.helper import fetch_config, get_versions, get_manual_path
-
+ 
 conf = fetch_config(RuntimeStateConfig())
 intersphinx_libs = conf.system.files.data.intersphinx
 pdfs = conf.system.files.data.pdfs
