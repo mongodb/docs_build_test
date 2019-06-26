@@ -1,5 +1,5 @@
 .. guide::
-   title: Data from MongoDB
+   title: PData from MongoDB
    author: MongoDB Documentation Team
    type: Getting Started
    level: beginner
