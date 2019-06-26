@@ -4,7 +4,7 @@
   store_into="build/master/sitemap.xml.gz"
   verbose="1"
   >
-
+ 
 <directory
 	path="build/public/"
 	url="https://docs.mongodb.com/guides/"
