@@ -13,7 +13,7 @@
      motor
      csharp
    result_description:
-     In this guide, you will insert data into MongoDB.
+     In this guide, you will insersst data into MongoDB.
    time: 15
    prerequisites:
      .. include:: /includes/prereqs_read_CRUD.rst

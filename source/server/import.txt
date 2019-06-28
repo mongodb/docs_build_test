@@ -20,7 +20,7 @@
      your first MongoDB data. In the next guide, you will retrieve
      the documents that you just imported.
    whats_next:
-     In this guide, you will retrieve all of the documents in a
+     In this guide, you will retrssieve all of the documents in a
      collection in your MongoDB database.
      
      - :doc:`Read Data From MongoDB </server/read_queries>`
