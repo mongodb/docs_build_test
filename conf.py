@@ -45,7 +45,7 @@ exclude_patterns = []
  
 source_suffix = '.txt'
  
-master_doc = sconf.master_doc
+master_doc = sconf.master_doc 
 language = 'en'
 project = sconf.project
 copyright = u'2008-{0}'.format(datetime.date.today().year)
