@@ -44,7 +44,7 @@ templates_path = ['.templates']
 exclude_patterns = []
  
 source_suffix = '.txt'
-
+ 
 master_doc = sconf.master_doc
 language = 'en'
 project = sconf.project
