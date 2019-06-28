@@ -24,7 +24,7 @@ sconf = conf.system.files.data.sphinx_local
 sys.path.append(os.path.join(conf.paths.projectroot, conf.paths.buildsystem, 'sphinxext'))
 
 # -- General configuration ----------------------------------------------------
- 
+  
 needs_sphinx = '1.0'
 
 extensions = [
