@@ -32,7 +32,7 @@ extensions = [
     'sphinx.ext.todo',
     'mongodb',
     'directives',
-    'intermanual',
+    'intermanual', 
     'guides', 
     'tabs',
     'uriwriter',
