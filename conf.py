@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 #
 # MongoDB documentation build configuration file, created by
 # sphinx-quickstart on Mon Oct  3 09:58:40 2011.
@@ -42,7 +42,7 @@ extensions = [
 
 templates_path = ['.templates']
 exclude_patterns = []
-
+ 
 source_suffix = '.txt'
 
 master_doc = sconf.master_doc
