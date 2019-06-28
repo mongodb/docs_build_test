@@ -33,7 +33,7 @@ extensions = [
     'mongodb',
     'directives',
     'intermanual',
-    'guides',
+    'guides', 
     'tabs',
     'uriwriter',
     'fasthtml',
