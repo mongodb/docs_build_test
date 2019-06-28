@@ -4,7 +4,7 @@
    type: Getting Started
    level: beginner
    author: MongoDB Documentation Team
-   product_version: 4.0
+   product_version: 4.0 s
    result_description:
      This guide describes how to enable authentication on your local MongoDB instance.
    time: 10
