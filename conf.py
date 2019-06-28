@@ -40,7 +40,7 @@ extensions = [
     'source_constants'
 ]
 
-templates_path = ['.templates']
+templates_path = ['.templates'] 
 exclude_patterns = []
  
 source_suffix = '.txt'
