@@ -28,6 +28,24 @@ publish: examples install-resources ## Builds this branch's publishable HTML and
 	giza make publish
 	if [ ${GIT_BRANCH} = master ]; then mut-redirects config/redirects -o build/public/.htaccess; fi
 
+stagel: 
+	git clone https://github.com/madelinezec/test-submodules.git scripts
+	cd scripts && npm install dotenv && npm install mongodb
+	source ~/.config/.snootyenv && node scripts/app.js $(filter-out $@,$(MAKECMDGOALS))
+	rm -rf scripts
+
+commit:
+	@:
+
+local:
+	@:
+
+repo:
+	@:
+	
+world:
+	@:
+
 stage: ## Host online for review
 	mut-publish build/${GIT_BRANCH}/html ${STAGING_BUCKET} --prefix=${PROJECT} --stage ${ARGS}
 	@echo "Hosted at ${STAGING_URL}/${PROJECT}/${USER}/${GIT_BRANCH}/index.html"
